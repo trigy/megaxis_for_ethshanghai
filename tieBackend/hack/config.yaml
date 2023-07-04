@@ -1,0 +1,8 @@
+# GoFrame CLI tool configuration.
+gfcli:
+  gen:
+    dao:
+      - link: "mysql:root:123tie@tcp(52.199.77.200:3306)/tie"
+        removePrefix: "gf_"
+        descriptionTag: true
+        noModelComment: true
