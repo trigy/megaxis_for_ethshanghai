@@ -5,8 +5,10 @@
 
   Our product portfolio: 1. Web3 service platform for AI App developers; 2. AI Prompt NFT marketplace; 3. Web3 LLM-as-a-service.
 
+### Updates for this edushanghai:
+  Added more than 50,000 real prompts, and added a prompt display interface. In addition, an AI tools display interface has been added, which can directly jump to the webpage of the AI gadget for use.
 
-​     
+  Modified lots of bugs of ethTokyo vision, and deployed the project to mantle, so that we can take advantage of the low-gas and security features of mantle.
 
 
 - Website: [megaxis.ai](http://megaxis.ai)
@@ -20,9 +22,9 @@
 - Twitter: [@megaxis](https://twitter.com/Uniswap)
 
 - screenshot:
-  - [welcome](https://github.com/MEGAxis-Hackathon/demo/tree/master/shotscreen/screen.png?raw=true)
-  - [main page](https://https://github.com/MEGAxis-Hackathon/demo/tree/master/shotscreen/screen1.png?raw=true)
-  - [prompt detail](https://github.com/MEGAxis-Hackathon/demo/tree/master/shotscreen/screen3.png?raw=true)
+  - [welcome](https://github.com/megaxis_for_ethshanghai/demo/tree/master/shotscreen/screen.png?raw=true)
+  - [main page](https://https://github.com/megaxis_for_ethshanghai/demo/tree/master/shotscreen/screen1.png?raw=true)
+  - [prompt detail](https://github.com/megaxis_for_ethshanghai/demo/tree/master/shotscreen/screen3.png?raw=true)
 
 ## Develop  megaxis
 
@@ -30,10 +32,10 @@ To develop the megaxis,
 
 
 Deploy, install packages and set configurations according to the project README of the front end, back end, and contract.
-- front-end-doc: [README.front](https://github.com/MEGAxis-Hackathon/demo/tree/master/megaxisFront/README.md)
-- back-end-doc: [README.back](https://github.com/MEGAxis-Hackathon/demo/tree/master/megaxisBackend/README.MD)
-- contract-doc: [README.contract](https://github.com/MEGAxis-Hackathon/demo/tree/master/Hardhat-PromptNft-market/README.md)
-- nft-market-doc: [README.market](https://github.com/MEGAxis-Hackathon/demo/tree/master/prompt-nft-market/README.md)
+- front-end-doc: [README.front](https://github.com/megaxis_for_ethshanghai/demo/tree/master/megaxisFront/README.md)
+- back-end-doc: [README.back](https://github.com/megaxis_for_ethshanghai/demo/tree/master/megaxisBackend/README.MD)
+- contract-doc: [README.contract](https://github.com/megaxis_for_ethshanghai/demo/tree/master/Hardhat-PromptNft-market/README.md)
+- nft-market-doc: [README.market](https://github.com/megaxis_for_ethshanghai/demo/tree/master/prompt-nft-market/README.md)
 
 ## Contributions
 
