@@ -9,6 +9,8 @@
   Added more than 50,000 real prompts, and added a prompt display interface. In addition, an AI tools display interface has been added, which can directly jump to the webpage of the AI gadget for use.
 
   Modified lots of bugs of ethTokyo vision, and deployed the project to mantle, so that we can take advantage of the low-gas and security features of mantle.
+  
+  We integrate with The Graph indexing protocol to create subgraphs that allow users to easily query prompt data and optimize their AI models. DEVELOPMENT QUERY URL: https://api.studio.thegraph.com/query/45359/prompt-nft-market-poly/version/latest & https://api.studio.thegraph.com/query/45359/prompt-nft-market/version/latest
 
 
 - Website: [megaxis.ai](http://megaxis.ai)
